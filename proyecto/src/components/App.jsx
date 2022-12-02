@@ -1,9 +1,9 @@
 import React from 'react';
 import '../styles/global.css'
-import Login from './containers/Login';
-import Layout from './containers/Layout'; 
+import Login from '../containers/Login';
+import Layout from '../containers/Layout'; 
 
-import './containers/Layout'
+import '../containers/Layout'
 const App = () => {
 return (
 <Layout>
