@@ -8,8 +8,8 @@ const Login = () => {
 		<div className="login">
 			<div className="form-container">
 				<img src="./logos/logo_yard_sale.svg" alt="logo" className="logo" />
-				<h1 className="title">Create a new password</h1>
-				<p className="subtitle">Enter a new passwrd for yue account</p>
+				<h1 className="title">Enter your email </h1>
+				<p className="subtitle">Enter  password </p>
 				<form action="/" className="form">
 					<label for="password" className="label"> E-mail</label>
 					<input type="password" id="password" placeholder="Ingrese su E-mail" className="input input-password" />
